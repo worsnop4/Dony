@@ -1,0 +1,7 @@
+{
+  "name": "SalesFlow Pro",
+  "description": "A streamlined sales order management system with multi-level approval workflow and stock tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
